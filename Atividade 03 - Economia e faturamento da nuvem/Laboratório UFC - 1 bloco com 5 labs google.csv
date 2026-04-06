@@ -1,0 +1,13 @@
+service_display_name,name,quantity,region,service_id,sku,"total_price, USD",notes
+Instances  (Compute Engine),N1 Predefined Instance Core running in Sao Paulo,438000.0,southamerica-east1,6F81-5844-456A,E8F8-A4B0-C91F,21978.84,
+Instances  (Compute Engine),N1 Predefined Instance Ram running in Sao Paulo,1642500.0,southamerica-east1,6F81-5844-456A,E128-228B-EA2A,11045.8125,
+Instances  (Compute Engine),Nvidia Tesla T4 GPU running in Sao Paulo,109500.0,southamerica-east1,6F81-5844-456A,785F-ECAE-DA34,52560,
+Instances  (Compute Engine),Balanced PD Capacity in Sao Paulo,76800.0,southamerica-east1,6F81-5844-456A,6F9F-D10A-6613,11520,
+,,,,,,,
+,,,,,Total Price:,97104.6525,
+,,,,,,,
+"Prices are in US dollars, effective date is 2026-04-05T23:22:13.597Z",,,,,,,
+,,,,,,,
+The estimated fees provided by Google Cloud Pricing Calculator are for discussion purposes only and are not binding on either you or Google. Your actual fees may be higher or lower than the estimate.,,,,,,,
+,,,,,,,
+Url to the estimate:,https://cloud.google.com/calculator?dl=CjhDaVJtWlRZMU1qTmtNeTAyTTJRd0xUUmxZemt0WVRFeVppMWxZMlJqWkdWa056RXlaakFRQVE9PRokRTgzQTE0MEMtNDRCNS00MjA0LThBQUUtQkIzNEVFNjVCNzJE,,,,,,
